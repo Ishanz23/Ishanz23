@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sayantan
+### Hi there 👋 I'm Sayantan, your friendly Javascript Dev
 
 ---
 
